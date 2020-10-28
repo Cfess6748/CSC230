@@ -1,20 +1,18 @@
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
-   Tutorial Case
+   Review Assignment
    
    TSS Typographic Style Sheet
-   Author: Carissa Harden  
-   Date:   10/23/2020
+   Author: carissa harden
+   Date:   10-25-21
    
-   Filename: tss_styles.css
+   Filename: coach_styles.css
 
 */
 
 
-
-/* HTML and Body Styles */
-
+/* Main Structural Styles */
 
 
 
@@ -23,11 +21,7 @@
 
 
 
-
-
-
-/* Aside and Blockquote Styles */
-
+/* Blockquote Styles */
 
 
 
@@ -37,14 +31,15 @@
 
 
 
+/* Paragraph Styles */
+
+
 
 /* List Styles */
 
 
 
 
-
-/* Footer Styles */
 
 
 
@@ -61,7 +56,7 @@
 
 
 /*
-Notice for the Quicksand-Regular Font
+Notice for the Nobile Font
 ------------------------------------------------------------------------------
 SIL Open Font License v1.10
 
